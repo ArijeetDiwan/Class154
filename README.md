@@ -1,2 +1,1 @@
-# Class154
-Dynamic entitiy
+# PRO-C153-Teacher-Boilerplate
